@@ -1,0 +1,7 @@
+{
+  "name": "rbx_chat_filter",
+  "version": "1.0.0",
+  "dependencies": {
+    "superagent": "^7.1.2"
+  }
+}
